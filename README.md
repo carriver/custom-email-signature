@@ -1,4 +1,8 @@
 # custom-email-signature
+
+This project is under development, please come back later!
+
+
 This HTML email signature was created using CSS inline styles, to facilitate the process of copying the signature to your email.
 
 The images were hosted using Firebase Cloud Storage. 
